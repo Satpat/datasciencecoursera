@@ -1,7 +1,13 @@
-# Tidy data set description
+## Libraries Required
 
-### The variables in the tidy data
-Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
+
+```
+reshape2, dplyr, and data.table
+```
+
+## CodeBook Description
+
+This document is a codebook that provides descriptions of the variables, the data, and all transformations and work that I performed to clean up the data.
 
 ### Only all the variables estimated from mean and standard deviation in the tidy set were kept.
 
