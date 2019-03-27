@@ -31,7 +31,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
-## Detailed Information about the Dataset:
+### Code explaination
+The code combined training dataset and test dataset,  and extracted partial variables to create another dataset with the averages of each variable for each activity.
+
+### New dataset
+The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
